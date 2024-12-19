@@ -1,0 +1,9 @@
+cohere # instalado
+jupyterlab # instalado
+python-dotenv # instalado
+chromadb # instalado
+pypdf
+langchain # langchain
+pypd
+fastapi
+uvicorn
