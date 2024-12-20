@@ -4,6 +4,6 @@ python-dotenv # instalado
 chromadb # instalado
 pypdf
 langchain # langchain
-pypd
+pydantic
 fastapi
 uvicorn

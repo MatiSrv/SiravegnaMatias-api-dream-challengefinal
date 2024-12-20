@@ -6,7 +6,7 @@ collection = client.get_collection("dreams_db")
 
 def get_dreams_docs(query:str):
     results = collection.query(
-    query_texts=["que es un simbolo?"],
+    query_texts=[query],
     n_results=4
 )
     
