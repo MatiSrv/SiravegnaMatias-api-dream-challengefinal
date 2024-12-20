@@ -58,7 +58,7 @@ Esta API permite interpretar descripciones de sueños proporcionadas por los usu
 ### 2. **Instalación**
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/MatiSrv/jungian-dream-interpreter
+   git clone https://github.com/MatiSrv/SiravegnaMatias-api-dream-challengefinal/edit/main/README.md
    ```
 
 2. Crea un entorno virtual:
