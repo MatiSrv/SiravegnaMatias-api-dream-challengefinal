@@ -2,7 +2,11 @@ from fastapi import FastAPI
 from routers import interpreter
 from fastapi.middleware.cors import CORSMiddleware
 
-app = FastAPI()
+app = FastAPI(
+    title="Interpretador de sueños",
+    description="API para interpretar sueños",
+    version="0.1",
+)
 app.include_router(interpreter.router)
 
 app.add_middleware(

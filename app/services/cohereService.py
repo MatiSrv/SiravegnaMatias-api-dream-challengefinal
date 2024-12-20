@@ -59,7 +59,8 @@ tools = [
 ]
 
 key_words = ['significado', 'significa', 'sueño', 'soñe','interpreta','soñar','significa','pesadilla', 'simbolismo', 'representa', 'relacion','siento','emocion','emociones','enfrentar','miedo','ansiedad','preocupacion','alegria','tristeza'
-             ,'felicidad','sorpresa','enojo','ira','desesperacion','desesperanza','enfrento','siento','sentimiento','sintiendo','me','afrontar','mi','mis']
+             ,'felicidad','sorpresa','enojo','ira','desesperacion','desesperanza','enfrento','siento','sentimiento','sintiendo','me','afrontar','mi','mis','sombra','psicologia','arquetipos','arquetipo','inconsciente','ego','individuacion','proceso'
+             'héroe', 'Madre', 'niño' ,'divino', 'sabio', 'anima','animus','hola']
 
 instructions = """
 

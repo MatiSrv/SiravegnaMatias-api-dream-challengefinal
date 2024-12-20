@@ -1,9 +1,9 @@
-cohere # instalado
-jupyterlab # instalado
-python-dotenv # instalado
-chromadb # instalado
-pypdf
-langchain # langchain
+cohere 
+jupyterlab 
+python-dotenv 
+chromadb 
+pypdf2
+langchain 
 pydantic
 fastapi
 uvicorn
